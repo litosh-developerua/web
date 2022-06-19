@@ -12,7 +12,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Personal portfolio web site(HTML, CSS, JS, Bootstrap',
+    title: 'Personal portfolio web site(HTML, CSS, JS, Bootstrap)',
     github: 'https://github.com/litosh-developerua/anastasiya-galizkaya-resume',
     demo: 'https://litosh-developerua.github.io/anastasiya-galizkaya-resume/'
   },
