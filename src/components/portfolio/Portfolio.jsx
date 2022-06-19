@@ -19,7 +19,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Calculator(HTML, CSS, JS',
+    title: 'Calculator(HTML, CSS, JS)',
     github: 'https://github.com/litosh-developerua/Calculator',
     demo: 'https://litosh-developerua.github.io/Calculator/'
   },
@@ -34,8 +34,8 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'Responsive layout (HTML, CSS)',
-    github: 'https://github.com/litosh-developerua/todos_app',
-    demo: 'https://litosh-developerua.github.io/todos_app/'
+    github: 'https://github.com/litosh-developerua/responsive_layout_car',
+    demo: 'https://litosh-developerua.github.io/responsive_layout_car/'
   },
   {
     id: 5,
